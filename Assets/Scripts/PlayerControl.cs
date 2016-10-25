@@ -3,7 +3,8 @@ using System.Collections;
 using InControl;
 using UnityEngine.UI;
 
-public class PlayerControl : MonoBehaviour {
+public class PlayerControl : MonoBehaviour
+{
 
     public float playerSpeed;
     public float jumpSpeed;
@@ -14,61 +15,66 @@ public class PlayerControl : MonoBehaviour {
     private int batteriesCollected;
     private float health = 1;
     private bool inSwitch = false;
+    private bool gravitySwap = false;
 
     public Text txt_collection;
     public Image img_health_fg;
     public float healthSubtractModifier = 0.1f;
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start()
+    {
         rigidBody = GetComponent<Rigidbody2D>();
         UpdateCollectedText();
-	}
-	
-	// Update is called once per frame
-	void Update () {
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
         Debug.Log(health);
-        Mathf.Clamp(health, 0, 1);
+        health = Mathf.Clamp(health, 0, 1);
         health -= Time.deltaTime * healthSubtractModifier;
         img_health_fg.fillAmount = health;
 
         InputDevice Controller = InputManager.ActiveDevice;
         xInput = Controller.Direction.X;
         bool isOnGround = OnGround();
-        Debug.Log(isOnGround);
+        float jumpForce = 0;
         if (Controller.Action1.WasPressed && isOnGround)
         {
-            doJump = true;
-        }
-        else
-        {
-            doJump = false;
-        }
+            if (gravitySwap)
+            {
+                jumpForce = -jumpSpeed;
+            }
+            else
+            {
+                jumpForce = jumpSpeed;
+            }
 
-        if(Controller.Action4.WasPressed && inSwitch)
+        }
+        if (Controller.Action4.WasPressed && inSwitch)
         {
             if (rigidBody.gravityScale == 1)
             {
                 rigidBody.gravityScale = -1;
+                gravitySwap = true;
             }
             else
             {
                 rigidBody.gravityScale = 1;
+                gravitySwap = false;
             }
         }
-	}
-
-    void FixedUpdate()
-    {
-        float jumpForce;
-        if (doJump)
-        {
-            jumpForce = jumpSpeed;
-        }
-        else
-        {
-            jumpForce = 0;
-        }
         rigidBody.velocity = new Vector3(xInput * playerSpeed, rigidBody.velocity.y + jumpForce);
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        switch (other.gameObject.tag)
+        {
+            case "Electric":
+                health -= 0.001f;
+                break;
+        }
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -77,7 +83,6 @@ public class PlayerControl : MonoBehaviour {
         {
             case "Pickup":
                 other.gameObject.SetActive(false);
-                other.gameObject.transform.parent.gameObject.SetActive(false);
                 batteriesCollected++;
                 UpdateCollectedText();
                 health += 0.1f;
@@ -109,7 +114,12 @@ public class PlayerControl : MonoBehaviour {
     {
         Collider2D coll2D = gameObject.GetComponent<Collider2D>();
         coll2D.enabled = false;
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 1);
+        Vector2 direction = Vector2.down;
+        if (gravitySwap)
+        {
+            direction = Vector2.up;
+        }
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 0.5f);
         coll2D.enabled = true;
         return hit;
     }
