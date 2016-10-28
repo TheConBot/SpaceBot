@@ -21,6 +21,7 @@ public class PlayerControl : MonoBehaviour
     private float curveLerp = 0;
     private int direction;
     private DoorSwitch doorSwitch = null;
+    private Animator anim;
 
     public Text txt_collection;
     public Image img_health_fg;
@@ -30,6 +31,7 @@ public class PlayerControl : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        anim = GetComponent<Animator>();
         coll2D = GetComponent<Collider2D>();
         rigidBody = GetComponent<Rigidbody2D>();
         UpdateCollectedText();
@@ -38,11 +40,20 @@ public class PlayerControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        bool isOnGround = OnGround();
         health = Mathf.Clamp(health, 0, 1);
         health -= Time.deltaTime * healthSubtractModifier;
         img_health_fg.fillAmount = health;
         InputDevice Controller = InputManager.ActiveDevice;
         xInput = Controller.DPadX.Value;
+        if (Mathf.Abs(xInput) == 1 && isOnGround)
+        {
+            anim.SetBool("isRunning", true);
+        }
+        else
+        {
+            anim.SetBool("isRunning", false);
+        }
         if(xInput == -1)
         {
             direction = -1;
@@ -55,14 +66,15 @@ public class PlayerControl : MonoBehaviour
         float curveValue = walkingAccel.Evaluate(curveLerp);
         //Debug.LogFormat("XInput: {2}, Lerp: {0}, Curve Value: {1}", curveLerp, curveValue, xInput);
 
-        bool isOnGround = OnGround();
         float jumpForce = 0;
         if (!isOnGround)
         {
+            anim.SetBool("isJumping", true);
             coll2D.sharedMaterial.friction = 0;
         }
         else
         {
+            anim.SetBool("isJumping", false);
             coll2D.sharedMaterial.friction = 0.4f;
         }
         if (Controller.Action1.WasPressed && isOnGround)
