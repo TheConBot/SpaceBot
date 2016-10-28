@@ -7,6 +7,7 @@ public class DoorController : MonoBehaviour {
     public DoorSwitch doorSwitch;
     private float doorLerp;
     private float origonalDoorY;
+    public float distanceUp = 10;
 
     void Start()
     {
@@ -18,7 +19,7 @@ public class DoorController : MonoBehaviour {
         if (doorSwitch.triggered)
         {
             doorLerp = Mathf.Lerp(doorLerp, 1, Time.deltaTime * 0.25f);
-            transform.position = new Vector2(transform.position.x, origonalDoorY + (animCurve.Evaluate(doorLerp) * 10));
+            transform.position = new Vector2(transform.position.x, origonalDoorY + (animCurve.Evaluate(doorLerp) * distanceUp));
         }
     }
 }

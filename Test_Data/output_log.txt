@@ -1,0 +1,2834 @@
+Mono path[0] = 'D:/Users/cbotts1/Desktop/SpaceBot/Test_Data/Managed'
+Mono path[1] = 'D:/Users/cbotts1/Desktop/SpaceBot/Test_Data/Mono'
+Mono config path = 'D:/Users/cbotts1/Desktop/SpaceBot/Test_Data/Mono/etc'
+PlayerConnection initialized from D:/Users/cbotts1/Desktop/SpaceBot/Test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55195
+Multi-casting "[IP] 172.20.120.40 [Port] 55195 [Flags] 2 [Guid] 1627668631 [EditorId] 1202869526 [Version] 1048832 [Id] WindowsPlayer(CNIC329-11) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [172.20.120.40:55195]
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.105 seconds
+Platform assembly: D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\cbotts1\Desktop\SpaceBot\Test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.827011 ms
+InControl (version 1.6.7 build 8720)
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InControl.InControlManager:OnEnable() (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\InControl\Source\Components\InControlManager.cs:65)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/InControl/Source/Components/InControlManager.cs Line: 65)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+No longer in gravity sphere
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerExit2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:137)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 137)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+No longer in gravity sphere
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerExit2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:137)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 137)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+No longer in gravity sphere
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerExit2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:137)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 137)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+No longer in gravity sphere
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerExit2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:137)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 137)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+No longer in gravity sphere
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerExit2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:137)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 137)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+Press Y to toggle gravity
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:121)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 121)
+
+No longer in gravity sphere
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerExit2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:137)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 137)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Press Y to open door
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+PlayerControl:OnTriggerEnter2D(Collider2D) (at D:\Users\cbotts1\Desktop\SpaceBot\Assets\Scripts\PlayerControl.cs:125)
+ 
+(Filename: D:/Users/cbotts1/Desktop/SpaceBot/Assets/Scripts/PlayerControl.cs Line: 125)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2514 -> priority: 1 
+  Thread -> id: 33ec -> priority: 1 
+  Thread -> id: 31cc -> priority: 1 

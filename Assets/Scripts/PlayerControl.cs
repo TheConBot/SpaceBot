@@ -26,6 +26,7 @@ public class PlayerControl : MonoBehaviour
     public Image img_health_fg;
     public float healthSubtractModifier = 0.1f;
     public AnimationCurve walkingAccel;
+    public float rayDistance = 1;
     // Use this for initialization
     void Start()
     {
@@ -40,7 +41,6 @@ public class PlayerControl : MonoBehaviour
         health = Mathf.Clamp(health, 0, 1);
         health -= Time.deltaTime * healthSubtractModifier;
         img_health_fg.fillAmount = health;
-
         InputDevice Controller = InputManager.ActiveDevice;
         xInput = Controller.DPadX.Value;
         if(xInput == -1)
@@ -156,7 +156,7 @@ public class PlayerControl : MonoBehaviour
         {
             direction = Vector2.up;
         }
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, 0.5f);
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direction, rayDistance);
         coll2D.enabled = true;
         return hit;
     }
