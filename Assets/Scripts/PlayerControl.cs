@@ -14,11 +14,13 @@ public class PlayerControl : MonoBehaviour
     private bool doJump;
     private int batteriesCollected;
     private float health = 1;
-    private bool inSwitch = false;
+    private bool inGravityPadTrigger = false;
+    private bool inDoorSwitchTrigger = false;
     private bool gravitySwap = false;
     private Collider2D coll2D;
     private float curveLerp = 0;
     private int direction;
+    private DoorSwitch doorSwitch = null;
 
     public Text txt_collection;
     public Image img_health_fg;
@@ -51,7 +53,7 @@ public class PlayerControl : MonoBehaviour
         }
         curveLerp = Mathf.Lerp(curveLerp, Mathf.Abs(xInput), Time.deltaTime * playerSpeed);
         float curveValue = walkingAccel.Evaluate(curveLerp);
-        Debug.LogFormat("XInput: {2}, Lerp: {0}, Curve Value: {1}", curveLerp, curveValue, xInput);
+        //Debug.LogFormat("XInput: {2}, Lerp: {0}, Curve Value: {1}", curveLerp, curveValue, xInput);
 
         bool isOnGround = OnGround();
         float jumpForce = 0;
@@ -75,7 +77,7 @@ public class PlayerControl : MonoBehaviour
             }
 
         }
-        if (Controller.Action4.WasPressed && inSwitch)
+        if (Controller.Action4.WasPressed && inGravityPadTrigger)
         {
             if (rigidBody.gravityScale == 1)
             {
@@ -87,6 +89,10 @@ public class PlayerControl : MonoBehaviour
                 rigidBody.gravityScale = 1;
                 gravitySwap = false;
             }
+        }
+        else if(Controller.Action4.WasPressed && inDoorSwitchTrigger)
+        {
+            doorSwitch.triggered = true;
         }
         rigidBody.velocity = new Vector3(direction * (playerSpeed * curveValue), rigidBody.velocity.y + jumpForce);
     }
@@ -111,9 +117,14 @@ public class PlayerControl : MonoBehaviour
                 UpdateCollectedText();
                 health += 0.25f;
                 break;
-            case "Switch":
+            case "GravityPad":
                 Debug.Log("Press Y to toggle gravity");
-                inSwitch = true;
+                inGravityPadTrigger = true;
+                break;
+            case "DoorSwitch":
+                Debug.Log("Press Y to open door");
+                inDoorSwitchTrigger = true;
+                doorSwitch = other.GetComponent<DoorSwitch>();
                 break;
         }
     }
@@ -122,9 +133,12 @@ public class PlayerControl : MonoBehaviour
     {
         switch (other.tag)
         {
-            case "Switch":
+            case "GravityPad":
                 Debug.Log("No longer in gravity sphere");
-                inSwitch = false;
+                inGravityPadTrigger = false;
+                break;
+            case "DoorSwitch":
+                inDoorSwitchTrigger = false;
                 break;
         }
     }
