@@ -5,6 +5,7 @@ public class DoorSwitch : MonoBehaviour {
 
     public bool triggered;
     public Light[] lights;
+    public GameObject[] electricFloors;
 
     private void Update()
     {
@@ -14,6 +15,11 @@ public class DoorSwitch : MonoBehaviour {
             foreach(Light lighttt in lights)
             {
                 lighttt.color = Color.white;
+            }
+            foreach(GameObject i in electricFloors)
+            {
+                i.tag = "Electric";
+                i.transform.GetChild(0).gameObject.SetActive(true);
             }
         }
     }
