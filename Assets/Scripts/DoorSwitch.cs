@@ -14,7 +14,7 @@ public class DoorSwitch : MonoBehaviour {
             GetComponent<Renderer>().material.SetColor("_EmissionColor", Color.white);
             foreach(Light lighttt in lights)
             {
-                lighttt.color = Color.white;
+                lighttt.color = Color.gray;
             }
             foreach(GameObject i in electricFloors)
             {
