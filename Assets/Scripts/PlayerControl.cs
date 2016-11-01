@@ -52,16 +52,16 @@ public class PlayerControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        bool isOnGround = OnGround();
-
         health = Mathf.Clamp(health, 0, 1);
-        health -= Time.deltaTime * healthSubtractModifier;
         img_health_fg.fillAmount = health;
+
         InputDevice Controller = null;
         float jumpForce = 0;
         float curveValue = 0;
         if (enableInput)
         {
+            bool isOnGround = OnGround();
+            health -= Time.deltaTime * healthSubtractModifier;
             Controller = InputManager.ActiveDevice;
             xInput = Controller.DPadX.Value;
 
@@ -157,6 +157,10 @@ public class PlayerControl : MonoBehaviour
                 Debug.Log("Pulling camera back...");
                 Camera.main.orthographicSize = Mathf.Lerp(Camera.main.orthographicSize, 16, Time.deltaTime);
             }
+        }
+        else
+        {
+            health += Time.deltaTime;
         }
         rigidBody.velocity = new Vector3(direction * (playerSpeed * curveValue), rigidBody.velocity.y + jumpForce);
         transform.FindChild("Model").gameObject.transform.localScale = new Vector3(transform.localScale.x, rigidBody.gravityScale, direction);
