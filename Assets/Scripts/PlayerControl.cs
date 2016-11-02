@@ -2,6 +2,7 @@
 using System.Collections;
 using InControl;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerControl : MonoBehaviour
 {
@@ -28,6 +29,7 @@ public class PlayerControl : MonoBehaviour
     private bool inGenerator;
     private bool enableInput = true;
     private bool pullBackCamera = false;
+    private bool win;
 
     public Text txt_collection;
     public Image img_health_fg;
@@ -38,9 +40,14 @@ public class PlayerControl : MonoBehaviour
     public GameObject[] finalSwitches;
     public Light lastLight;
     public GameObject[] electricArcs;
+    public Image fade;
+    public Text txt;
+    public Image YButton;
+    public AudioSource beep;
     // Use this for initialization
     void Start()
     {
+        YButton.enabled = false;
         camOrigin = Camera.main.transform.localPosition;
         camOrthoSizeOrigin =  Camera.main.orthographicSize;
         anim = GetComponent<Animator>();
@@ -54,6 +61,40 @@ public class PlayerControl : MonoBehaviour
     {
         health = Mathf.Clamp(health, 0, 1);
         img_health_fg.fillAmount = health;
+        if (health == 0)
+        {
+            Debug.Log(fade.color.a);
+            enableInput = false;
+            rigidBody.constraints = RigidbodyConstraints2D.FreezeAll;
+            coll2D.enabled = false;
+            Color fadeColor = fade.color;
+            fadeColor = new Color(fadeColor.r, fadeColor.g, fadeColor.b, fadeColor.a + (Time.deltaTime * 0.5f));
+            fade.color = fadeColor;
+            if (fade.color.a > 1)
+            {
+                txt.text = "You died.\n\nPress any button to continue.";
+                if (InputManager.ActiveDevice.AnyButtonWasPressed)
+                {
+                    SceneManager.LoadScene("Menu");
+                }
+            }
+        }
+        else if (win)
+        {
+            health += 0.025f;
+            Color fadeColor = fade.color;
+            fadeColor = new Color(fadeColor.r, fadeColor.g, fadeColor.b, fadeColor.a + (Time.deltaTime * 0.5f));
+            fade.color = fadeColor;
+            Camera.main.GetComponent<AudioListener>().enabled = false;
+            if (fade.color.a > 1)
+            {
+                txt.text = "You did it!\n\nYou collected " + batteriesCollected + " power-cells.\n\nPress any button to continue.";
+                if (InputManager.ActiveDevice.AnyButtonWasPressed)
+                {
+                    SceneManager.LoadScene("Menu");
+                }
+            }
+        }
 
         InputDevice Controller = null;
         float jumpForce = 0;
@@ -122,6 +163,7 @@ public class PlayerControl : MonoBehaviour
                     coll2D.offset = new Vector2(coll2D.offset.x, -0.68f);
                 }
                 inGravityPadTrigger = false;
+                YButton.enabled = false;
             }
             else if (Controller.Action4.WasPressed && inDoorSwitchTrigger)
             {
@@ -148,7 +190,7 @@ public class PlayerControl : MonoBehaviour
                     {
                         arc.SetActive(true);
                     }
-                    Debug.Log("You win!");
+                    win = true;
                     enableInput = false;
                 }
             }
@@ -157,10 +199,6 @@ public class PlayerControl : MonoBehaviour
                 Debug.Log("Pulling camera back...");
                 Camera.main.orthographicSize = Mathf.Lerp(Camera.main.orthographicSize, 16, Time.deltaTime);
             }
-        }
-        else
-        {
-            health += Time.deltaTime;
         }
         rigidBody.velocity = new Vector3(direction * (playerSpeed * curveValue), rigidBody.velocity.y + jumpForce);
         transform.FindChild("Model").gameObject.transform.localScale = new Vector3(transform.localScale.x, rigidBody.gravityScale, direction);
@@ -191,15 +229,18 @@ public class PlayerControl : MonoBehaviour
                 batteriesCollected++;
                 UpdateCollectedText();
                 health += 0.25f;
+                beep.Play();
                 break;
             case "GravityPad":
                 Debug.Log("Press Y to toggle gravity");
                 inGravityPadTrigger = true;
+                YButton.enabled = true;
                 break;
             case "DoorSwitch":
                 Debug.Log("Press Y to open door");
                 inDoorSwitchTrigger = true;
                 doorSwitch = other.GetComponent<DoorSwitch>();
+                YButton.enabled = true;
                 break;
             case "Terminal":
                 Debug.Log("In Terminal");
@@ -209,6 +250,7 @@ public class PlayerControl : MonoBehaviour
                 break;
             case "Generator":
                 inGenerator = true;
+                YButton.enabled = true;
                 break;
             case "bloop":
                 Debug.Log("Hello");
@@ -224,9 +266,11 @@ public class PlayerControl : MonoBehaviour
             case "GravityPad":
                 Debug.Log("No longer in gravity sphere");
                 inGravityPadTrigger = false;
+                YButton.enabled = false;
                 break;
             case "DoorSwitch":
                 inDoorSwitchTrigger = false;
+                YButton.enabled = false;
                 break;
             case "Terminal":
                 leftTerminal = true;
@@ -234,6 +278,7 @@ public class PlayerControl : MonoBehaviour
                 break;
             case "Generator":
                 inGenerator = false;
+                YButton.enabled = false;
                 break;
         }
     }
