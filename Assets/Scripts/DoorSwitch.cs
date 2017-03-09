@@ -15,6 +15,7 @@ public class DoorSwitch : MonoBehaviour {
             foreach(Light lighttt in lights)
             {
                 lighttt.color = Color.gray;
+                lighttt.intensity = 5;
             }
             foreach(GameObject i in electricFloors)
             {

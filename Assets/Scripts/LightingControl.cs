@@ -13,7 +13,7 @@ public class LightingControl : MonoBehaviour {
     void Start () {
         startingIntensityValue = pointLights[0].intensity;
         intensityValue = startingIntensityValue;
-        targetIntensityValue = startingIntensityValue - 4;
+        targetIntensityValue = startingIntensityValue - 2;
 	}
 	
 	// Update is called once per frame

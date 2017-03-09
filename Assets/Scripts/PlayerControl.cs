@@ -30,6 +30,7 @@ public class PlayerControl : MonoBehaviour
     private bool enableInput = true;
     private bool pullBackCamera = false;
     private bool win;
+    private GameObject playerModel;
 
     public Text txt_collection;
     public Image img_health_fg;
@@ -53,6 +54,7 @@ public class PlayerControl : MonoBehaviour
         anim = GetComponent<Animator>();
         coll2D = GetComponent<Collider2D>();
         rigidBody = GetComponent<Rigidbody2D>();
+        playerModel = transform.FindChild("Model").gameObject;
         UpdateCollectedText();
     }
 
@@ -63,7 +65,6 @@ public class PlayerControl : MonoBehaviour
         img_health_fg.fillAmount = health;
         if (health == 0)
         {
-            Debug.Log(fade.color.a);
             enableInput = false;
             rigidBody.constraints = RigidbodyConstraints2D.FreezeAll;
             coll2D.enabled = false;
@@ -124,7 +125,6 @@ public class PlayerControl : MonoBehaviour
             }
             curveLerp = Mathf.Lerp(curveLerp, Mathf.Abs(xInput), Time.deltaTime * playerSpeed);
             curveValue = walkingAccel.Evaluate(curveLerp);
-            //Debug.LogFormat("XInput: {2}, Lerp: {0}, Curve Value: {1}", curveLerp, curveValue, xInput);
 
             if (!isOnGround)
             {
@@ -196,12 +196,11 @@ public class PlayerControl : MonoBehaviour
             }
             if (pullBackCamera)
             {
-                Debug.Log("Pulling camera back...");
                 Camera.main.orthographicSize = Mathf.Lerp(Camera.main.orthographicSize, 16, Time.deltaTime);
             }
         }
         rigidBody.velocity = new Vector3(direction * (playerSpeed * curveValue), rigidBody.velocity.y + jumpForce);
-        transform.FindChild("Model").gameObject.transform.localScale = new Vector3(transform.localScale.x, rigidBody.gravityScale, direction);
+        playerModel.transform.localScale = new Vector3(transform.localScale.x, rigidBody.gravityScale, direction);
     }
 
     IEnumerator LeftTerminalCooldown(float time)
@@ -232,18 +231,15 @@ public class PlayerControl : MonoBehaviour
                 beep.Play();
                 break;
             case "GravityPad":
-                Debug.Log("Press Y to toggle gravity");
                 inGravityPadTrigger = true;
                 YButton.enabled = true;
                 break;
             case "DoorSwitch":
-                Debug.Log("Press Y to open door");
                 inDoorSwitchTrigger = true;
                 doorSwitch = other.GetComponent<DoorSwitch>();
                 YButton.enabled = true;
                 break;
             case "Terminal":
-                Debug.Log("In Terminal");
                 leftTerminal = false;
                 Camera.main.transform.localPosition = Vector3.Lerp(Camera.main.transform.localPosition, new Vector3(10.15f, 30, 7.71f), Time.deltaTime);
                 Camera.main.orthographicSize = Mathf.Lerp(Camera.main.orthographicSize, 33, Time.deltaTime);
@@ -253,7 +249,6 @@ public class PlayerControl : MonoBehaviour
                 YButton.enabled = true;
                 break;
             case "bloop":
-                Debug.Log("Hello");
                 pullBackCamera = true;
                 break;
         }
@@ -264,7 +259,6 @@ public class PlayerControl : MonoBehaviour
         switch (other.tag)
         {
             case "GravityPad":
-                Debug.Log("No longer in gravity sphere");
                 inGravityPadTrigger = false;
                 YButton.enabled = false;
                 break;
